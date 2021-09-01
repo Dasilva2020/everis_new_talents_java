@@ -3,7 +3,6 @@ bootcamp com foco em Java e arquitetura back-end
 
 
 **Aprendizado
-
 -Estrutura de Dados e Algoritmos
 -Java
 -Git e GitHub
