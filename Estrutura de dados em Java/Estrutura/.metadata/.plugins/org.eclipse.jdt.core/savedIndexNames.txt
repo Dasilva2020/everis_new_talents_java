@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/emily/Documentos/JavaCurso/Estrutura/.metadata/.plugins/org.eclipse.jdt.core
+1348791507.index
+646308851.index
