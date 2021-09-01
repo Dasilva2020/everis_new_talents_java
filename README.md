@@ -1,13 +1,12 @@
 ﻿# everis New Talents - Java
-bootcamp com foco em Java e arquitetura back-end
+Bootcamp com foco em Java e arquitetura back-end
 
-
-**Aprendizado
--Estrutura de Dados e Algoritmos
--Java
--Git e GitHub
--SQL SERVER
--IDEs Java
--Arquitetura de Sistemas
--Spring
--QA
+Curso Java
+Conhecimento:
+- Java
+- Git e ao GitHub
+- SQL SERVER
+- IDEs Java
+- Arquitetura de Sistemas
+- Spring
+- QA
